@@ -1,7 +1,15 @@
 # asynchronous iteration
 
+With the `async` package:
+
     mkdir data
     node async.js
+
+With the `bluebird` promises package
+
+    mkdir data
+    node promise.js
+
 
 tl;dr
 
