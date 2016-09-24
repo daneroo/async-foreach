@@ -1,5 +1,10 @@
 # asynchronous iteration
 
+    mkdir data
+    node async.js
+
+tl;dr
+
 Scenario:
 - iterate through loop executing an async action
 - wait for an action to complete before executing the next
